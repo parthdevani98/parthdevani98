@@ -1,16 +1,19 @@
-### Hi there 👋
+Hi there, Parth Devani
 
-<!--
-**parthdevani98/parthdevani98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About :
 
-Here are some ideas to get you started:
+🔭 I have completed my B.Tech in Electronics & Communication Engineering.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 I am really passionate about Data and Machine Learning.
+
+🔭 I enjoy learning new things and getting updated with the latest technology trends.
+
+💬 My Personal motive is to give my full potential to build AI-based solutions that solve high-impact problems for people around the globe and simplify everyday living.
+
+⚡ Currently working as a Senior Software Engineer  at Infinera Corporation.
+
+👯 Worked as  Software Engineer having Three years of experience with Capgemini.
+
+Skills: Python | Computer Networks | C | Linux Internals | Data Structures | Algorithm | Applied Statistics | MySQL | Machine Learning | Probability and Random Variable.
+
+📫 Reach me at: parthdevani98@gmail.com
