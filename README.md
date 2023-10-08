@@ -15,3 +15,5 @@ About :
 Skills: Python | Computer Networks | C | Linux Internals | Data Structures | Algorithm | Applied Statistics | MySQL | Machine Learning | Probability and Random Variable.
 
 📫 Reach me at: parthdevani98@gmail.com
+📫 LinkedIn: https://www.linkedin.com/in/devaniparth
+📫 Twitter: https://twitter.com/PARTHDEVANI9
