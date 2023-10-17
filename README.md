@@ -6,7 +6,7 @@ About :
 
 🔭 I am really passionate about Data and Machine Learning.
 
-🔭 I enjoy learning new things and getting updated with the latest technology trends.
+🔭 I enjoy problem-solving and getting updated with the latest technology trends.
 
 ⚡ Currently working as a Senior Software Engineer  at Infinera Corporation.
 
